@@ -1,5 +1,4 @@
-# Installing PyTorch, TensorFlow, and JAX on Apple Silicon
-
+# Installing PyTorch, TensorFlow, and JAX 
 Create a virtual environment and update pip:
 
 ```
