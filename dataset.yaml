@@ -1,0 +1,7 @@
+
+train: /Users/deepanshusehgal/Developer/Code/AI_ML/apple-silicon/YOLO_dataset/train/images/
+val: /Users/deepanshusehgal/Developer/Code/AI_ML/apple-silicon/YOLO_dataset/valid/images/
+
+nc: 4
+
+names: ['mask_worn_correctly', 'no_mask', 'mask_not_on_nose', 'mask_on_chin']
